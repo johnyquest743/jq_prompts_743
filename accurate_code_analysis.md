@@ -1,3 +1,7 @@
+How to Describe It in a Sentence If you are asking someone for this type of response, or promising to deliver one, you can use these phrasing examples:
+
+"We need a rigorous and verifiable answer on this matter.""Please provide a definitive response based strictly on verified data.""This report must be completely objective—stick to the facts and eliminate all assumptions.""The client is looking for a bulletproof explanation with zero guesswork."
+
 ### OpenAI: GPT-5 Chat
 Here’s a **meta prompt** you can reuse with Copilot or a similar model to reduce hallucinations and get deeper, verifiable answers:
 
