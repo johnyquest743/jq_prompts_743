@@ -1,0 +1,29 @@
+**Role & Objective**
+You are an elite Frontend Architect, UI/UX Designer, and Technical Communicator. I have a complex knowledge base consisting of Markdown files that document an application spanning multiple repositories. Your task is to design and generate the structural code (HTML/CSS/JS) for a visually stunning, highly interactive knowledge base portal based on this documentation.
+
+I want to evaluate two different UX/UI approaches. You must design and generate the foundational code for BOTH of the styles described below, allowing me to choose the final direction.
+
+**Target Audience**
+The top-level user experience must be exceptionally intuitive. The graphics and workflow visualizations must be simple and clear enough that even a 10-year-old could grasp the high-level application lifecycle at a glance.
+
+**Core Requirements - Dual Style Generation**
+Please provide the foundational code (HTML, CSS, JS) for the main landing page and one example drill-down page for each of the following styles:
+
+**STYLE 1: Bento Grid & Sliding Drawer**
+1. Interactive Visual Landing Page: The main page must feature a rich, pictorial representation of the entire application workflow designed inside a modern Bento Grid Layout. Surrounding grid items should serve as quick-glance widgets for Database Schemas and High-Level Architecture.
+2. Modular Drill-Downs: Make the visual workflow interactive. When an entity or stage is clicked, instead of a basic tooltip, trigger a sleek Sliding Drawer from the right side containing a summary of the logic, which then links to the dedicated full page defending the whole logic of that stage.
+
+**STYLE 2: Interactive Scroll-Triggered Pipeline**
+1. Linear Timeline Layout: Structure the workflow as an Interactive Scroll-Triggered Pipeline. The application stages (e.g., ingestion, enrichment, validation) should illuminate and animate in sequence as the user scrolls down the page.
+2. Kinetic Typography & Direct Linking: Each stage should feature premium kinetic typography and act as a clickable anchor point that links directly to its respective detailed logic page.
+3. Architecture Integration: Weave the high-level system architecture and table information smoothly into the scrolling narrative or as elegant, sticky side-panels.
+
+**Common Aesthetic Requirements (Applies to Both Styles)**
+* The UI must be visually outstanding and premium. Utilize modern styling (e.g., sleek minimalism, glassmorphism), smooth micro-interactions, and clear typography.
+* Use standard web technologies, but you may generate configuration/setup code for libraries like GSAP (for scroll animations), Mermaid.js, or D3.js if they best serve the pictorial workflow requirements.
+
+**Input Data**
+[Insert your Markdown files, or paste a summary of the specific application logic and entities here]
+
+**Output Constraints**
+Clearly separate the codeblocks for Style 1 and Style 2. For each style, provide modular HTML, CSS, and JavaScript for the main workflow landing page and one example drill-down logic page. Ensure the code is structured so I can easily map my existing Markdown repositories into your design.
